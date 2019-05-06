@@ -1,0 +1,7 @@
+M:\Projects\console_bank\ConsoleBank\bin\Debug\ConsoleBank.exe.config
+M:\Projects\console_bank\ConsoleBank\bin\Debug\ConsoleBank.exe
+M:\Projects\console_bank\ConsoleBank\bin\Debug\ConsoleBank.pdb
+M:\Projects\console_bank\ConsoleBank\obj\Debug\ConsoleBank.csprojAssemblyReference.cache
+M:\Projects\console_bank\ConsoleBank\obj\Debug\ConsoleBank.csproj.CoreCompileInputs.cache
+M:\Projects\console_bank\ConsoleBank\obj\Debug\ConsoleBank.exe
+M:\Projects\console_bank\ConsoleBank\obj\Debug\ConsoleBank.pdb
